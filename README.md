@@ -1,4 +1,3 @@
-# CartRabbitProj
 # Pg Booking Management
  Technologies used - FrontEnd : ReactJs, Backen/API : Express(NodeJs), Database : MongoDb
  1. Clone the Repo to your machine.
