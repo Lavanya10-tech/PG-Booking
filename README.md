@@ -1,6 +1,6 @@
 # Pg Booking Management
- Technologies used - FrontEnd : ReactJs, Backen/API : Express(NodeJs), Database : MongoDb
- Credentials - username : "admin", password : "admin" to access Master Table  
+# Technologies used - FrontEnd : ReactJs, Backen/API : Express(NodeJs), Database : MongoDb
+# Credentials - username : "admin", password : "admin" to access Master Table  
  1. Clone the Repo to your machine using cmd "git clone [repository url]"
  2. Make sure you installed MongoDb, NodeJs.
  3. Change local directory to project folder "cd CartRabbitProj/pg-booking"
